@@ -1,2 +1,4 @@
-# django-app-keycloak
-A django app integrating with keycloak
+
+Django App Keycloak
+===============
+A showcase/demo project for a django app integrating with keycloak
