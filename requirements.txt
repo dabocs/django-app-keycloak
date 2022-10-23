@@ -1,3 +1,4 @@
+# pip install -r requirements.txt --no-cache-dir
+
 Django==4.1.1
--e git+https://github.com/dabocs/django-keycloak.git@8336d599400ca5810547ed38c0520e155cd04f0a#egg=django_keycloak
--e git+https://github.com/dabocs/python-keycloak-client.git@c5e43234c5cf63586f7d980997b87ca89615f919#egg=python_keycloak_client
+django-keycloak-pkg==0.2.0
