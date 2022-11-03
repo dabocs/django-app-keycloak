@@ -1,4 +1,4 @@
 # pip install -r requirements.txt --no-cache-dir
 
 Django==4.1.1
-django-keycloak-pkg==0.2.0
+django-keycloak-pkg==0.2.1
